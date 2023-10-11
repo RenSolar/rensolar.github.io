@@ -728,50 +728,6 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-tSfqZFqJ7M {
-  display: flex;
-  background-image: url("../../../assets/images/2023-10-10-0nb-kleki.png");
-}
-.cid-tSfqZFqJ7M .mbr-overlay {
-  background-color: #ffa600;
-  opacity: 0.5;
-}
-.cid-tSfqZFqJ7M .content-wrap {
-  padding: 5rem 1rem;
-}
-@media (min-width: 768px) {
-  .cid-tSfqZFqJ7M {
-    align-items: center;
-  }
-  .cid-tSfqZFqJ7M .row {
-    justify-content: center;
-  }
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-tSfqZFqJ7M .content-wrap {
-    min-width: 50%;
-  }
-}
-@media (max-width: 767px) {
-  .cid-tSfqZFqJ7M {
-    -webkit-align-items: center;
-    align-items: center;
-  }
-  .cid-tSfqZFqJ7M .mbr-row {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-  .cid-tSfqZFqJ7M .content-wrap {
-    width: 100%;
-  }
-}
-.cid-tSfqZFqJ7M .mbr-section-title {
-  text-align: center;
-}
-.cid-tSfqZFqJ7M .mbr-text,
-.cid-tSfqZFqJ7M .mbr-section-btn {
-  text-align: center;
-}
 .cid-tSfxhOV467 {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -879,4 +835,48 @@ a {
 .cid-tSkXnt6JTN .card-box {
   text-align: left;
   color: #000000;
+}
+.cid-tSfqZFqJ7M {
+  display: flex;
+  background-image: url("../../../assets/images/2023-10-10-0nb-kleki.png");
+}
+.cid-tSfqZFqJ7M .mbr-overlay {
+  background-color: #ffa600;
+  opacity: 0.5;
+}
+.cid-tSfqZFqJ7M .content-wrap {
+  padding: 5rem 1rem;
+}
+@media (min-width: 768px) {
+  .cid-tSfqZFqJ7M {
+    align-items: center;
+  }
+  .cid-tSfqZFqJ7M .row {
+    justify-content: center;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-tSfqZFqJ7M .content-wrap {
+    min-width: 50%;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tSfqZFqJ7M {
+    -webkit-align-items: center;
+    align-items: center;
+  }
+  .cid-tSfqZFqJ7M .mbr-row {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+  .cid-tSfqZFqJ7M .content-wrap {
+    width: 100%;
+  }
+}
+.cid-tSfqZFqJ7M .mbr-section-title {
+  text-align: center;
+}
+.cid-tSfqZFqJ7M .mbr-text,
+.cid-tSfqZFqJ7M .mbr-section-btn {
+  text-align: center;
 }
